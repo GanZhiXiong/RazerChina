@@ -2,6 +2,16 @@
 为雷云驱动软件开发的辅助工具。  
 暂不公开源码，如需定制功能请联系我。
 
+## 导航
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [与其他自定义TabBarController的区别](#%E4%B8%8E%E5%85%B6%E4%BB%96%E8%87%AA%E5%AE%9A%E4%B9%89tabbarcontroller%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+- [为什么要写这个程序？](#%E4%B8%8E%E5%85%B6%E4%BB%96%E8%87%AA%E5%AE%9A%E4%B9%89tabbarcontroller%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+ 
 ## 为什么要写这个程序？
 **1、首先得有个雷蛇的鼠标**  
 这个还得从雷蛇鼠标说起，这几年因公司需要开发Windows的项目，于是必须用Windows进行开发。对于更多使用macOs的我，真的是受不了Windows的触控板了，要知道Mac 电脑的触控板是全世界电脑中做的最好的。Windows的电脑中触控板做的比较好的应该是微软自家生成的笔记本电脑了，但是手势依旧是那么那么的少，而且没有第三方软件的支持和扩展。因此使用Windows还是用鼠标好，于是就有了多侧键的鼠标的需求，在网上找了很久没有找到合适的侧键鼠标。看到轨迹球的侧键比较多，于是买了一个，到手当晚体验了一下，发现用大拇指滚动轨迹球，实在是不习惯，而且有点费力，第二天便把它退了。看了下罗技的多侧键鼠标，侧键实在是太少了，我的需求是至少5个侧键以上。到网上搜索的多侧键要么是有线的，要么就是在国内购物网站上买不到。终于有一天发现了雷蛇那伽梵鼠标，侧键足足12个，而且有无线的，这才是我想要的，那真是大快人心。基本上这些多侧键鼠标都是国外的，国内多侧键鼠标实在是太少了，不知道是因为技术问题实现不了呢，还是国内市场上对多侧键的需求太少了。雷蛇那伽梵这款鼠标可贵了，原装正品都得近千元，建议不要购买全新的或者海淘。
@@ -65,3 +75,5 @@
     ]
 }
 ```
+
+## 与其他自定义TabBarController的区别
