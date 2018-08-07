@@ -3,14 +3,12 @@
 暂不公开源码，如需定制功能请联系我。
 
 ## 导航
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
+ 
 - [与其他自定义TabBarController的区别](#%E4%B8%8E%E5%85%B6%E4%BB%96%E8%87%AA%E5%AE%9A%E4%B9%89tabbarcontroller%E7%9A%84%E5%8C%BA%E5%88%AB)
 
 - [为什么要写这个程序？](#%E4%B8%8E%E5%85%B6%E4%BB%96%E8%87%AA%E5%AE%9A%E4%B9%89tabbarcontroller%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+ 
  
 ## 为什么要写这个程序？
 **1、首先得有个雷蛇的鼠标**  
