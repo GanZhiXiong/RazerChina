@@ -35,13 +35,13 @@
 **5、默认显示提示界面个数为当前连接显示器个数**    
 **6、所有修改的配置可以保存**    
 这里我不过多介绍，时间和精力有限，请看下图的，动态的展示了程序基本的功能。不多说，自己下载下来体验就知道了。    
-**V1.0.6演示**
+**V1.0.6演示**  
 ![](https://github.com/GanZhiXiong/RazerChina/blob/master/Images/RazerSynapse.gif)  
 
 **V1.1.0截图**
 <!--![](https://github.com/GanZhiXiong/RazerChina/blob/master/Images/V1.1.0.png)  
 -->
-<img src="https://github.com/GanZhiXiong/RazerChina/blob/master/Images/V1.1.0.png" width="414" hegiht="736" align=center />
+<img src="https://github.com/GanZhiXiong/RazerChina/blob/master/Images/V1.1.0.png" width="323" hegiht="548" align=center />
 
 
 ## 有问题反馈
